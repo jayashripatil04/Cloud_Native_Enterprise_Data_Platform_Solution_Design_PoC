@@ -39,7 +39,7 @@ Local Files → Python Script → S3 Raw → Glue Crawler → Glue Catalog → G
    - Creates aggregated data in curated layer
 5. Query data in Athena
 
----
+----
 
 ## 📊 Sample Queries
 
