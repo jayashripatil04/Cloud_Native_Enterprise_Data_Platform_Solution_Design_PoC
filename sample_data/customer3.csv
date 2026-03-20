@@ -1,0 +1,4 @@
+customer_id,name,city,age,gender,signup_date,end_date
+7,Kiran,Bangalore,31,M,2024-02-18,2027-12-31
+8,Divya,Pune,26,F,2024-03-10,2027-12-31
+9,Ravi,Hyderabad,40,M,2023-10-30,2027-12-31
