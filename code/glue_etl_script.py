@@ -11,7 +11,7 @@ from pyspark.sql.functions import col, to_date, concat_ws, max, avg, count
 # logger = logging.getLogger()
 # logger.setLevel(logging.INFO)
 
-print("****************************************")
+print("*****************************************")
 
 ## @params: [JOB_NAME]
 args = getResolvedOptions(sys.argv, [
